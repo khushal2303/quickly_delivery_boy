@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "169700402808",
+    "project_id": "quickly-24e7f",
+    "storage_bucket": "quickly-24e7f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:169700402808:android:a9f5c13b11273463072f8d",
+        "android_client_info": {
+          "package_name": "com.quickly.quickly_delivery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "105172028065835497756",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUi0Nx5jIr_nHB0_wWfUdUSCc_Kl6FxI0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "105172028065835497756",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:169700402808:android:b25852ed4e90918b072f8d",
+        "android_client_info": {
+          "package_name": "com.quickly.quickly_grocery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "105172028065835497756",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUi0Nx5jIr_nHB0_wWfUdUSCc_Kl6FxI0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "105172028065835497756",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
